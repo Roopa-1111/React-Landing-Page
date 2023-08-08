@@ -1,0 +1,132 @@
+{
+  "Header": {
+    "title": "My first React Landing Page",
+    "paragraph": "Grow youb bussiness Online."
+  },
+  "About": {
+    "paragraph": "Myself Rupali Lokhande , i am dedicated and passionate about coding. I am highly skilled in Website Development. Working at Neutron Technologies. Providing Freelancing Website Design and Development Services too.",
+    "Why": [
+      "Timely Delivery",
+      "Innovative Product"
+      
+    ],
+    "Why2": [
+      "Easy Communication",
+      "Providing support"
+    
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Wordpress",
+      "text": "We providng Wordpress any type of website."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-commerce Website",
+      "text": "We providing highly scalable e-commerce app by reactjs."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Easy Communication",
+      "text": "As per customer need we are ready to help."
+    }
+   
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    }
+  ],
+ 
+  "Contact": {
+    "address": "Kolhapur Maharashtra",
+    "phone": "+91 9822036223",
+    "email": "roopa.lokhande3@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Chat Support",
+      "text": "We provide 24/7 chat support."
+    },
+    {
+      "icon": "fa fa-bell",
+      "title": "Priority timeline",
+      "text": "Our Value is delivering product in customer time only."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "We are team",
+      "text": "We are innovative Team."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Magical Solution",
+      "text": "We create exelent product for u."
+    }
+  ]
+}
